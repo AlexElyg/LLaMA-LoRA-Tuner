@@ -101,7 +101,7 @@ starlette==0.26.1
 sympy==1.11.1
 termcolor==2.2.0
 tokenize-rt==5.0.0
-tokenizers==0.13.3
+tokenizers==0.19.*
 tomli==2.0.1
 toolz==0.12.0
 torch==2.0.0
